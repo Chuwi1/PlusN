@@ -1,0 +1,70 @@
+2018-06-30 16:07:26,100 INFO  [main] com.aionemu.gameserver.GameServer [null:-1] [GameServer] JavaAgent [Callback Support] is configured.
+2018-06-30 16:07:26,127 INFO  [main] org.quartz.impl.StdSchedulerFactory [StdSchedulerFactory.java:1175] Using default implementation for ThreadExecutor
+2018-06-30 16:07:26,143 INFO  [main] org.quartz.core.SchedulerSignalerImpl [SchedulerSignalerImpl.java:61] Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2018-06-30 16:07:26,144 INFO  [main] org.quartz.core.QuartzScheduler [QuartzScheduler.java:243] Quartz Scheduler v.2.1.7 created.
+2018-06-30 16:07:26,145 INFO  [main] org.quartz.simpl.RAMJobStore [RAMJobStore.java:154] RAMJobStore initialized.
+2018-06-30 16:07:26,146 INFO  [main] org.quartz.core.QuartzScheduler [QuartzScheduler.java:268] Scheduler meta-data: Quartz Scheduler (v2.1.7) 'QuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 1 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2018-06-30 16:07:26,146 INFO  [main] org.quartz.impl.StdSchedulerFactory [StdSchedulerFactory.java:1324] Quartz scheduler 'QuartzScheduler' initialized from an externally provided properties instance.
+2018-06-30 16:07:26,146 INFO  [main] org.quartz.impl.StdSchedulerFactory [StdSchedulerFactory.java:1328] Quartz scheduler version: 2.1.7
+2018-06-30 16:07:26,146 INFO  [main] org.quartz.core.QuartzScheduler [QuartzScheduler.java:534] Scheduler QuartzScheduler_$_NON_CLUSTERED started.
+2018-06-30 16:07:26,148 INFO  [main] com.aionemu.gameserver.configs.Config [null:-1] [Config] Loading: mygs.properties
+2018-06-30 16:07:26,149 INFO  [main] com.aionemu.gameserver.configs.Config [null:-1] [Config] No override properties found
+2018-06-30 16:07:26,170 INFO  [main] com.aionemu.gameserver.configs.Config [null:-1] [Config] Loading: ./config/administration/admin.properties
+2018-06-30 16:07:26,171 INFO  [main] com.aionemu.gameserver.configs.Config [null:-1] [Config] Loading: ./config/administration/developer.properties
+2018-06-30 16:07:26,213 INFO  [main] com.aionemu.gameserver.configs.Config [null:-1] [Config] Loading: ./config/main/agentfight.properties
+2018-06-30 16:07:26,214 INFO  [main] com.aionemu.gameserver.configs.Config [null:-1] [Config] Loading: ./config/main/ai.properties
+2018-06-30 16:07:26,216 INFO  [main] com.aionemu.gameserver.configs.Config [null:-1] [Config] Loading: ./config/main/autogroup.properties
+2018-06-30 16:07:26,216 INFO  [main] com.aionemu.gameserver.configs.Config [null:-1] [Config] Loading: ./config/main/base.properties
+2018-06-30 16:07:26,217 INFO  [main] com.aionemu.gameserver.configs.Config [null:-1] [Config] Loading: ./config/main/beritra.properties
+2018-06-30 16:07:26,217 INFO  [main] com.aionemu.gameserver.configs.Config [null:-1] [Config] Loading: ./config/main/panesterra.properties
+2018-06-30 16:07:26,218 INFO  [main] com.aionemu.gameserver.configs.Config [null:-1] [Config] Loading: ./config/main/rvr.properties
+2018-06-30 16:07:26,218 INFO  [main] com.aionemu.gameserver.configs.Config [null:-1] [Config] Loading: ./config/main/composition.properties
+2018-06-30 16:07:26,219 INFO  [main] com.aionemu.gameserver.configs.Config [null:-1] [Config] Loading: ./config/main/conqueror.properties
+2018-06-30 16:07:26,220 INFO  [main] com.aionemu.gameserver.configs.Config [null:-1] [Config] Loading: ./config/main/highdaeva.properties
+2018-06-30 16:07:26,221 INFO  [main] com.aionemu.gameserver.configs.Config [null:-1] [Config] Loading: ./config/main/DualBoxConfig.properties
+2018-06-30 16:07:26,221 INFO  [main] com.aionemu.gameserver.configs.Config [null:-1] [Config] Loading: ./config/main/commons.properties
+2018-06-30 16:07:26,222 INFO  [main] com.aionemu.gameserver.configs.Config [null:-1] [Config] Loading: ./config/main/cache.properties
+2018-06-30 16:07:26,223 INFO  [main] com.aionemu.gameserver.configs.Config [null:-1] [Config] Loading: ./config/main/cleaning.properties
+2018-06-30 16:07:26,224 INFO  [main] com.aionemu.gameserver.configs.Config [null:-1] [Config] Loading: ./config/main/composition.properties
+2018-06-30 16:07:26,224 INFO  [main] com.aionemu.gameserver.configs.Config [null:-1] [Config] Loading: ./config/main/craft.properties
+2018-06-30 16:07:26,229 INFO  [main] com.aionemu.gameserver.configs.Config [null:-1] [Config] Loading: ./config/main/custom.properties
+2018-06-30 16:07:26,229 INFO  [main] com.aionemu.gameserver.configs.Config [null:-1] [Config] Loading: ./config/main/drop.properties
+2018-06-30 16:07:26,230 INFO  [main] com.aionemu.gameserver.configs.Config [null:-1] [Config] Loading: ./config/main/enchants.properties
+2018-06-30 16:07:26,232 INFO  [main] com.aionemu.gameserver.configs.Config [null:-1] [Config] Loading: ./config/main/events.properties
+2018-06-30 16:07:26,232 INFO  [main] com.aionemu.gameserver.configs.Config [null:-1] [Config] Loading: ./config/main/falldamage.properties
+2018-06-30 16:07:26,233 INFO  [main] com.aionemu.gameserver.configs.Config [null:-1] [Config] Loading: ./config/main/fasttrack.properties
+2018-06-30 16:07:26,234 INFO  [main] com.aionemu.gameserver.configs.Config [null:-1] [Config] Loading: ./config/main/gameserver.properties
+2018-06-30 16:07:26,236 INFO  [main] com.aionemu.gameserver.configs.Config [null:-1] [Config] Loading: ./config/main/geodata.properties
+2018-06-30 16:07:26,237 INFO  [main] com.aionemu.gameserver.configs.Config [null:-1] [Config] Loading: ./config/main/group.properties
+2018-06-30 16:07:26,239 INFO  [main] com.aionemu.gameserver.configs.Config [null:-1] [Config] Loading: ./config/main/housing.properties
+2018-06-30 16:07:26,239 INFO  [main] com.aionemu.gameserver.configs.Config [null:-1] [Config] Loading: ./config/main/html.properties
+2018-06-30 16:07:26,243 INFO  [main] com.aionemu.gameserver.configs.Config [null:-1] [Config] Loading: ./config/main/legion.properties
+2018-06-30 16:07:26,244 INFO  [main] com.aionemu.gameserver.configs.Config [null:-1] [Config] Loading: ./config/main/logging.properties
+2018-06-30 16:07:26,245 INFO  [main] com.aionemu.gameserver.configs.Config [null:-1] [Config] Loading: ./config/main/lunasystem.properties
+2018-06-30 16:07:26,247 INFO  [main] com.aionemu.gameserver.configs.Config [null:-1] [Config] Loading: ./config/main/membership.properties
+2018-06-30 16:07:26,247 INFO  [main] com.aionemu.gameserver.configs.Config [null:-1] [Config] Loading: ./config/main/abyssbosses.properties
+2018-06-30 16:07:26,248 INFO  [main] com.aionemu.gameserver.configs.Config [null:-1] [Config] Loading: ./config/main/name.properties
+2018-06-30 16:07:26,249 INFO  [main] com.aionemu.gameserver.configs.Config [null:-1] [Config] Loading: ./config/main/periodicsave.properties
+2018-06-30 16:07:26,250 INFO  [main] com.aionemu.gameserver.configs.Config [null:-1] [Config] Loading: ./config/main/playertransfer.properties
+2018-06-30 16:07:26,251 INFO  [main] com.aionemu.gameserver.configs.Config [null:-1] [Config] Loading: ./config/main/prices.properties
+2018-06-30 16:07:26,251 INFO  [main] com.aionemu.gameserver.configs.Config [null:-1] [Config] Loading: ./config/main/punishment.properties
+2018-06-30 16:07:26,252 INFO  [main] com.aionemu.gameserver.configs.Config [null:-1] [Config] Loading: ./config/main/ranking.properties
+2018-06-30 16:07:26,257 INFO  [main] com.aionemu.gameserver.configs.Config [null:-1] [Config] Loading: ./config/main/rates.properties
+2018-06-30 16:07:26,258 INFO  [main] com.aionemu.gameserver.configs.Config [null:-1] [Config] Loading: ./config/main/security.properties
+2018-06-30 16:07:26,259 INFO  [main] com.aionemu.gameserver.configs.Config [null:-1] [Config] Loading: ./config/main/shutdown.properties
+2018-06-30 16:07:26,261 INFO  [main] com.aionemu.gameserver.configs.Config [null:-1] [Config] Loading: ./config/main/siege.properties
+2018-06-30 16:07:26,261 INFO  [main] com.aionemu.gameserver.configs.Config [null:-1] [Config] Loading: ./config/main/thread.properties
+2018-06-30 16:07:26,262 INFO  [main] com.aionemu.gameserver.configs.Config [null:-1] [Config] Loading: ./config/main/weddings.properties
+2018-06-30 16:07:26,263 INFO  [main] com.aionemu.gameserver.configs.Config [null:-1] [Config] Loading: ./config/main/world.properties
+2018-06-30 16:07:26,267 INFO  [main] com.aionemu.gameserver.configs.Config [null:-1] [Config] Loading: ./config/network/database.properties
+2018-06-30 16:07:26,270 INFO  [main] com.aionemu.gameserver.configs.Config [null:-1] [Config] Loading: ./config/network/network.properties
+2018-06-30 16:07:26,513 INFO  [main] com.aionemu.commons.database.DatabaseFactory [DatabaseFactory.java:125] Successfully connected to database
+2018-06-30 16:07:28,870 INFO  [main] com.aionemu.commons.database.dao.DAOManager [DAOManager.java:87] Loaded 66 DAO implementations.
+2018-06-30 16:07:28,885 INFO  [main] com.aionemu.gameserver.utils.ThreadPoolManager [null:-1] ThreadPoolManager: Initialized with 32 scheduler, 8 instant, 0 long running, and forking 0 thread(s).
